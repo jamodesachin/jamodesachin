@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<!--
-**jamodesachin/jamodesachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## About Me
+I am a Consultant specializing in DevSecOps, Kubernetes, and Cloud Computing, dedicated to helping customers succeed throughout their product adoption journey with software solutions.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
