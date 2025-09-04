@@ -1,4 +1,4 @@
-## Hi there, This is Sachin 👋
+## Hi there, this is Sachin 👋
 
 ## About Me
 I am a Consultant specializing in DevSecOps, Kubernetes, and Cloud Computing, dedicated to helping customers succeed throughout their product adoption journey with software solutions.
